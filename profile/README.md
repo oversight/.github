@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Oversight has been transitioned to [InfraSonar - homepage](https://infrasonar.com)
+Oversight has been transitioned to [InfraSonar](https://infrasonar.com)
 
 This GitHub organisation contains the legacy Oversight code base.
 
