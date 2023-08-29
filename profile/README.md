@@ -1,11 +1,7 @@
 ## Hi there 👋
 
+Oversight has been transitioned to [InfraSonar - homepage](https://infrasonar.com)
 
-Oversight is now InfraSonar!
-
-
-* [InfraSonar - homepage](https://infrasonar.com)
-* [InfraSonar - documentation](https://docs.infrasonar.com)
-* [InfraSonar - GitHub repository](https://github.com/infrasonar)
+This GitHub organisation contains the legacy Oversight code base.
 
 Feel free to contact us if you have any questions: support@infrasonar.com
